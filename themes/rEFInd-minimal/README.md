@@ -1,6 +1,7 @@
 ## Minimalistic rEFInd theme
 
-[rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
+![background](https://github.com/SaturnXIII/refind-saturn/assets/110695125/856e1747-0815-41f1-a9c7-a0a4bae990d2)
+ is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
 
 ![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
